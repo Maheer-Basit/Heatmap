@@ -1,0 +1,4 @@
+name=Heatmap tracker
+id=heatmapMod
+description=A mod that tracks the players movement and zombie kills across the map.
+poster=poster.png

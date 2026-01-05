@@ -1,0 +1,14 @@
+media/lua/client/HeatmapData.txt
+*.log
+
+# --- Python Environment ---
+# These are local temporary files created by Python.
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# --- OS & IDE Files ---
+.DS_Store
+.vscode/
+.idea/
